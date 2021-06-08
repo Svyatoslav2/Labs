@@ -1,0 +1,9 @@
+#pragma once
+int testLength();
+int testGetIn();
+int testGetLast();
+int testGetFirst();
+int testGetSubList();
+int testConcat();
+int testCopyList();
+int testList();
